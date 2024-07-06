@@ -21,3 +21,4 @@ base64 = { version = "~0.21.5" } # Encode and decode base64 as bytes or utf8.
 http = { version = "~1.0.0" } # Types for HTTP requests and responses.
 tracing = { version = "~0.1.40" } #  Application-level tracing for Rust.
 tracing-subscriber = { version = "~0.3.18", features = ["env-filter"] }
+dotenv = "0.15"
